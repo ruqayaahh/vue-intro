@@ -1,4 +1,5 @@
 # hello-world
+Toyosi Akinoso's vue components class @ Enyata Academy 4.0
 
 ## Project setup
 ```
